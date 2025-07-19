@@ -1,6 +1,9 @@
 # 📊 TheLook eCommerce – Dashboard Power BI (Automatisé via BigQuery)
 
-🔗 [Voir le rapport Power BI en ligne](https://app.powerbi.com/reportEmbed?reportId=9e15115f-84b8-443c-8ce5-3b31164e654b&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea)
+🔗 [Voir le rapport Power BI en ligne]([https://app.powerbi.com/reportEmbed?reportId=9e15115f-84b8-443c-8ce5-3b31164e654b&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea](https://app.powerbi.com/reportEmbed?reportId=0d268877-6ca0-4c2f-8887-0c94fee9fe49&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea&actionBarEnabled=true))
+
+
+
 <iframe title="Thelookproject" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0d268877-6ca0-4c2f-8887-0c94fee9fe49&autoAuth=true&ctid=a9f1c4f7-38f4-4d38-8a3c-4b6dbe981cea&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ## 🧑‍💼 Contexte client
